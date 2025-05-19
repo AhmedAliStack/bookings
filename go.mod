@@ -1,6 +1,6 @@
 module github.com/AhmedAliStack/bookings
 
-go 1.23.5
+go 1.23
 
 require (
 	github.com/alexedwards/scs/v2 v2.8.0 // indirect
